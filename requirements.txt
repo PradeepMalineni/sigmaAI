@@ -1,0 +1,6 @@
+streamlit
+openai
+transformers
+sentence-transformers
+pandas
+faiss-cpu  # Or faiss-gpu if you use GPU
